@@ -23,9 +23,8 @@ I'm also a **freelance graphic designer and video editor**, so I naturally enjoy
 
 **Cybersecurity fundamentals · Linux · Networking · Digital forensics · Python · Hardware security**
 
-I'm still figuring out exactly where in cybersecurity I want to specialize — and that's part of the fun. This GitHub is where I'm documenting what I build, break, learn, and eventually get better at.
+I'm still figuring out exactly where in cybersecurity I want to specialize and that's part of the fun. 
 
-**📍 Pakistan | 🎓 GIKI | 🔐 Cybersecurity**
 
 
 <!--
